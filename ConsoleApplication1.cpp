@@ -95,5 +95,6 @@ int main()
 	  default:
 		 return 0;
 	  }
-   } while (true);
+	system("cls");
+} while (true);
 }
